@@ -1,0 +1,11 @@
+    LOKANTAYA HOSGELDINIZ            TARIH=13/05/2020
+------------------------------------------------------------------
+   Yemek Listesi              FiyatXKisi Sayisi
+    1    4                       6X4
+
+KDV %5 uygulanmaktadir
+Tutar: 24
+KDV li tutar:25.2
+----------------------------------------------
+Garson:Zehra
+Yine Bekleriz
